@@ -41,7 +41,6 @@ coverage.xml
 
 # documentation build artifacts
 
-docs/*.md
 docs/api
 site/
 mkdocs.yml
