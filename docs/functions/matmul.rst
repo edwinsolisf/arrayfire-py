@@ -1,0 +1,4 @@
+matmul
+======
+
+.. autofunction:: arrayfire.matmul

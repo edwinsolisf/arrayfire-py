@@ -1,0 +1,4 @@
+constant
+========
+
+.. autofunction:: arrayfire.constant

@@ -1,0 +1,4 @@
+range
+=======
+
+.. autofunction:: arrayfire.range

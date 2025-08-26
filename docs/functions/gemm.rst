@@ -1,0 +1,4 @@
+gemm
+======
+
+.. autofunction:: arrayfire.gemm

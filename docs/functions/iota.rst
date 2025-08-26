@@ -1,0 +1,4 @@
+iota
+=======
+
+.. autofunction:: arrayfire.iota
